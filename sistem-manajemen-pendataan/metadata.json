@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Pendataan",
+  "description": "Sistem pendataan real-time perusahaan yang mengintegrasikan penjualan, pembelian stok masuk, dan pengeluaran operasional secara menyeluruh dengan sinkronisasi Google Sheets, serta ekspor laporan PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
